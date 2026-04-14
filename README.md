@@ -1,2 +1,1 @@
-# jamesisapro.github.io-my-site
-First Release.
+First Release. This is my project/about me website.
